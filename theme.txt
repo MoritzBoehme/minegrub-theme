@@ -1,7 +1,7 @@
 # Global
 
 title-text: ""
-desktop-image: "background.png"
+desktop-image: "background_no_splash.png"
 terminal-font: "Unknown Regular 16"
 
 + boot_menu {
